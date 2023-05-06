@@ -1,4 +1,5 @@
 ## Face2Face<sup>&rho;</sup>: Official Pytorch Implementation
+[<img src='https://img.shields.io/badge/paper-ECCV-black'>](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730055.pdf)
 
 ### Environment
 - CUDA 10.2 or above
